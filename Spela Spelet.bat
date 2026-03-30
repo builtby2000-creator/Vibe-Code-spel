@@ -1,0 +1,3 @@
+@echo off
+echo Startar AI-algoritmen (Snake)...
+start index.html
